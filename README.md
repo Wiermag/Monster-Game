@@ -1,24 +1,21 @@
-# monster-slayer
+# MONSTER SLAYER
 
-## Project setup
-```
-npm install
-```
+* [About Project](#about-project)
+* [Technologies](#technologies)
+* [Setup](#setup)
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## About Project 
+Game created using Vue.js
 
-### Compiles and minifies for production
-```
-npm run build
-```
+## Technologies
+Project is created with:
+-Vue.js
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Setup
+To run this project, install it locally using npm:
+
+```
+$ npm install
+$ npm start
+```
